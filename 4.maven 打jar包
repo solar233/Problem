@@ -1,0 +1,6 @@
+问题：  
+打jar包。  
+
+方法：  
+进入项目目录 例如：E:\myworkspace\tp-dev-orgn-base ， 输入cmd , 在安装有maven的前提下， 执行命令 mvn install。 BUILD SUCCESS 后，
+jar会输出在 maven的仓库内（具体目录可查看 控制台的输出信息 [INFO] Installing xxxx to xxxxx）。
