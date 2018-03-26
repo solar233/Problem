@@ -14,3 +14,11 @@
 
 [6.maven install 失败.md](https://github.com/solar233/Problem/blob/master/6.maven%20install%20%E5%A4%B1%E8%B4%A5.md)
 
+
+
+# self-learning  
+自我学习，查看的一些资料 以及 自己搭建的小项目 。 
+
+[sl-1: maven多模块 + dubbo.md](https://github.com/solar233/Problem/blob/master/self-learning/sl-1:%20maven%E5%A4%9A%E6%A8%A1%E5%9D%97%20%2B%20dubbo.md)
+
+
