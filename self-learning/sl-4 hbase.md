@@ -17,7 +17,7 @@
    
 4.修改 habse conf/hbase-site.xml    
     
-    
+ ```   
 <configuration>
 	<property>  
         <name>hbase.rootdir</name>  
@@ -40,7 +40,7 @@
         <value>false</value>  
     </property>  
 </configuration>
-
+```
 
 5.cmd 启动 bin/start-hbase.cmd
 
