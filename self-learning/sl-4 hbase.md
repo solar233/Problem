@@ -5,19 +5,19 @@
 2.[hadoop-common-2.2.0-bin-master](https://coding.net/u/panchenri/p/dubbo-soft/git?public=true) (winutil)  
 
 ## windows 下安装 Hbas：
-1.下载以上两个软件   
+### 1.下载以上两个软件   
 
-2.配置环境变量  
+### 2.配置环境变量  
  ``` JAVA_HOME  ```  
  
  ``` HADOOP_HOME  D:\soft\hbase-1.4.2-bin```  
  
  ``` PATH ```加上``` ;$HADOOP_HOME\bin;  ```
 
-3.修改  habse conf/hbase-env.cmd  
+### 3.修改  habse conf/hbase-env.cmd  
    ```set JAVA_HOME=D:\jdk1.8.0_65  ```
    
-4.修改 habse conf/hbase-site.xml    
+### 4.修改 habse conf/hbase-site.xml    
     
  ```   
 <configuration>
@@ -44,7 +44,7 @@
 </configuration>
 ```
 
-5.cmd 启动 bin/start-hbase.cmd
+### 5.cmd 启动 bin/start-hbase.cmd
 
 ## 参考文章：  
 
