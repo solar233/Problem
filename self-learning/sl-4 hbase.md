@@ -4,7 +4,7 @@
 1.[Hbase 下载地址](http://archive.apache.org/dist/hbase/)  
 2.[hadoop-common-2.2.0-bin-master](https://coding.net/u/panchenri/p/dubbo-soft/git?public=true) (winutil)  
 
-## windows 下安装 Hbase (单机版)：
+## 一、windows 下安装 Hbase (单机版)：
 ### 1.下载以上两个软件   
 
 ### 2.配置环境变量  
@@ -53,7 +53,7 @@
 
 
 
-## centos7 安装Hbase  
+## 二、centos7 安装Hbase  
 
 ### 文件配置修改
 
