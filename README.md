@@ -25,4 +25,6 @@
 
 [sl-3:spring boot学习.md](https://github.com/solar233/Problem/blob/master/self-learning/sl-3:spring%20boot%E5%AD%A6%E4%B9%A0.md)  
 
-[sl-4:hbase.md](https://github.com/solar233/Problem/blob/master/self-learning/sl-4%20hbase.md)
+[sl-4:hbase.md(windows+centos7)](https://github.com/solar233/Problem/blob/master/self-learning/sl-4%20hbase.md)   
+
+[sl-5:hadoop.md(centos7)](https://github.com/solar233/Problem/blob/master/self-learning/sl-5:hadoop.md)
