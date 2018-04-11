@@ -48,5 +48,73 @@
 
 ## 参考文章：  
 
-[hbase windows 单机版安装](https://blog.csdn.net/qq_16829555/article/details/50514650)  
+[hbase windows 单机版安装](https://blog.csdn.net/qq_16829555/article/details/50514650)    
+
+
+
+
+## centos7 安装Hbase  
+
+### 文件配置修改
+
+1.hbase-site.xml
+````
+<configuration>
+	<property>  
+	 <name>hbase.rootdir</name>  
+	 <value>hdfs://192.168.10.134:9000/hbase</value>  
+	 <description>The directory shared byregion servers.</description>  
+	</property>  
+	<property>  
+	 <name>hbase.zookeeper.property.clientPort</name>  
+	 <value>2181</value>  
+	 <description>Property from ZooKeeper'sconfig zoo.cfg. The port at which the clients will connect.  
+	 </description>  
+	</property>  
+	<property>  
+	 <name>zookeeper.session.timeout</name>  
+	 <value>120000</value>  
+	</property>  
+	<property>  
+	 <name>hbase.zookeeper.quorum</name>  
+	 <value>192.168.10.134</value>  
+	</property>  
+	<property>  
+	 <name>hbase.tmp.dir</name>  
+	 <value>/home/hadoop/hbase/tmp</value>  
+	</property>  
+	<property>  
+	 <name>hbase.cluster.distributed</name>  
+	 <value>false</value>  
+	</property>  
+</configuration>
+````  
+
+2.hbase-env.sh   
+`````
+export JAVA_HOME=/home/hadoop/jdk1.8.0_161
+export HADOOP_HOME=/home/hadoop/hadoop-2.6.5
+export HBASE_HOME=/home/hadoop/hbase-1.2.6  
+export HBASE_CLASSPATH=/home/hadoop/hadoop-2.6.5/etc/hadoop  
+export HBASE_PID_DIR=/root/hbase/pids
+`````
+
+3.centos7 
+命令：vim etc/hosts  
+`````
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.10.134 hserver1
+`````
+
+4.windows   
+c:/windows/system32/drivers/etc  hosts文件
+````
+192.168.10.134 hserver1
+````
+
+## 参考文章：
+[Linux安装Hbase(CentOS7+Hbase1.2.5+Hadoop2.8.0)](https://blog.csdn.net/pucao_cug/article/details/72229223)
+
+
 
