@@ -27,4 +27,6 @@
 
 [sl-4:hbase.md(windows+centos7)](https://github.com/solar233/Problem/blob/master/self-learning/sl-4%20hbase.md)   
 
-[sl-5:hadoop.md(centos7)](https://github.com/solar233/Problem/blob/master/self-learning/sl-5:hadoop.md)
+[sl-5:hadoop.md(centos7)](https://github.com/solar233/Problem/blob/master/self-learning/sl-5:hadoop.md)  
+
+[sl-6:Linux命令](https://github.com/solar233/Problem/blob/master/self-learning/sl-6:Linux%E5%91%BD%E4%BB%A4.md)
