@@ -19,3 +19,6 @@ hadoop fs -ls /test/output7/
 
 3.显示 hdfs 下的文件:
 hadoop fs  -cat /test/output7/part-m-00000
+
+4.获取root权限：  
+sudo su
