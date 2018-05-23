@@ -12,7 +12,9 @@
 
 [5. maven 多模块，install 问题.md](https://github.com/solar233/Problem/blob/master/5.%20maven%20%E5%A4%9A%E6%A8%A1%E5%9D%97%EF%BC%8Cinstall%20%E9%97%AE%E9%A2%98.md)
 
-[6.maven install 失败.md](https://github.com/solar233/Problem/blob/master/6.maven%20install%20%E5%A4%B1%E8%B4%A5.md)
+[6.maven install 失败.md](https://github.com/solar233/Problem/blob/master/6.maven%20install%20%E5%A4%B1%E8%B4%A5.md)    
+
+[7.ie ajax不取新数据.md]()
 
 
 
