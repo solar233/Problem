@@ -100,7 +100,7 @@ export HBASE_PID_DIR=/root/hbase/pids
 `````
 
 3.centos7 
-命令：vim etc/hosts  
+命令：vim /etc/hosts  (/ 不要忘记)
 `````
 127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
