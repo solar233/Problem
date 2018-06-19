@@ -14,7 +14,9 @@
 
 [6.maven install 失败.md](https://github.com/solar233/Problem/blob/master/6.maven%20install%20%E5%A4%B1%E8%B4%A5.md)    
 
-[7.ie ajax不取新数据.md](https://github.com/solar233/Problem/blob/master/7.ie%20ajax%E4%B8%8D%E5%8F%96%E6%96%B0%E6%95%B0%E6%8D%AE.md)
+[7.ie ajax不取新数据.md](https://github.com/solar233/Problem/blob/master/7.ie%20ajax%E4%B8%8D%E5%8F%96%E6%96%B0%E6%95%B0%E6%8D%AE.md)  
+
+[8.sql优化](https://github.com/solar233/Problem/blob/master/8.sql%20%E4%BC%98%E5%8C%96.md)
 
 
 
