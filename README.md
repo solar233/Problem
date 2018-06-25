@@ -16,8 +16,9 @@
 
 [7.ie ajax不取新数据.md](https://github.com/solar233/Problem/blob/master/7.ie%20ajax%E4%B8%8D%E5%8F%96%E6%96%B0%E6%95%B0%E6%8D%AE.md)  
 
-[8.sql优化](https://github.com/solar233/Problem/blob/master/8.sql%20%E4%BC%98%E5%8C%96.md)
+[8.sql优化](https://github.com/solar233/Problem/blob/master/8.sql%20%E4%BC%98%E5%8C%96.md)  
 
+[9.多个ajax异步请求 阻塞](https://github.com/solar233/Problem/blob/master/9.%E5%A4%9A%E4%B8%AAajax%E5%BC%82%E6%AD%A5%E8%AF%B7%E6%B1%82%20%E9%98%BB%E5%A1%9E)
 
 
 # self-learning  
