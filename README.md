@@ -36,4 +36,6 @@
 
 [sl-5:hadoop.md(centos7)](https://github.com/solar233/Problem/blob/master/self-learning/sl-5:hadoop.md)  
 
-[sl-6:Linux命令](https://github.com/solar233/Problem/blob/master/self-learning/sl-6:Linux%E5%91%BD%E4%BB%A4.md)
+[sl-6:Linux命令](https://github.com/solar233/Problem/blob/master/self-learning/sl-6:Linux%E5%91%BD%E4%BB%A4.md)  
+
+[sl-7:正则表达式](https://github.com/solar233/Problem/blob/master/self-learning/sl-7:%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
