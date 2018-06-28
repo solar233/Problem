@@ -20,7 +20,7 @@
 
 [9.多个ajax异步请求 阻塞](https://github.com/solar233/Problem/blob/master/9.%E5%A4%9A%E4%B8%AAajax%E5%BC%82%E6%AD%A5%E8%AF%B7%E6%B1%82%20%E9%98%BB%E5%A1%9E)  
 
-[10.读取本地文件 servlet] (https://github.com/solar233/Problem/blob/master/10.%E8%AF%BB%E5%8F%96%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%20servlet.md)
+[10.读取本地文件 servlet](https://github.com/solar233/Problem/blob/master/10.%E8%AF%BB%E5%8F%96%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%20servlet.md)
 
 
 # self-learning  
