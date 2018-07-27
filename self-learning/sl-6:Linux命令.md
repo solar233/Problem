@@ -8,4 +8,8 @@
 
 5.操作文件: 打开 vim xxxx ， 编辑 i ，保存并推出 Esc :qw 
 
-6.返回上层: cd ..
+6.返回上层: cd ..  
+
+7.下载 wget  
+
+8.环境变量配置 vim /etc/profile
