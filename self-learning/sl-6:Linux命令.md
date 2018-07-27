@@ -13,3 +13,5 @@
 7.下载 wget  
 
 8.环境变量配置 vim /etc/profile
+
+9.centos 安装ssh : yum -y install openssh-server
