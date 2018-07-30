@@ -115,6 +115,7 @@ c:/windows/system32/drivers/etc  hosts文件
 ### demo程序
  [hbase-demo](https://coding.net/u/panchenri/p/hbase-demo/git?public=true) 
  注意：1.master 别名， 需配置windows中的 hosts文件，否则将出现错误 无法解析（unkonwn hosts）  
+       2.hbase-site.xml  中的  hbase.rootdir  的值 与  core-site.xml  中的 fs.default.name  值保持一致
  
 ## 参考文章：
 [Linux安装Hbase(CentOS7+Hbase1.2.5+Hadoop2.8.0)](https://blog.csdn.net/pucao_cug/article/details/72229223)
