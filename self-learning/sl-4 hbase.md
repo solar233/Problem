@@ -62,7 +62,7 @@
 <configuration>
 	<property>  
 	 <name>hbase.rootdir</name>  
-	 <value>hdfs://192.168.10.134:9000/hbase</value>  
+	 <value>hdfs://hserver1:9000/hbase</value>  
 	 <description>The directory shared byregion servers.</description>  
 	</property>  
 	<property>  
@@ -77,7 +77,7 @@
 	</property>  
 	<property>  
 	 <name>hbase.zookeeper.quorum</name>  
-	 <value>192.168.10.134</value>  
+	 <value>hserver1</value>  
 	</property>  
 	<property>  
 	 <name>hbase.tmp.dir</name>  
@@ -100,17 +100,22 @@ export HBASE_PID_DIR=/root/hbase/pids
 `````
 
 3.centos7 
-命令：vim /etc/hosts  (/ 不要忘记)
+命令：vim /etc/hosts  (/ 不要忘记)  (此处hserver1 配置 内网地址)
 `````
-127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
-::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
-192.168.10.134 hserver1
+# The following lines are desirable for IPv4 capable hosts
+127.0.0.1  localhost.localdomain localhost
+132.232.23.187 localhost4.localdomain4 localhost4
+172.27.0.10  hserver1
+
+# The following lines are desirable for IPv6 capable hosts
+::1 localhost.localdomain localhost
+::1 localhost6.localdomain6 localhost6
 `````
 
 4.windows   
-c:/windows/system32/drivers/etc  hosts文件
+c:/windows/system32/drivers/etc  hosts文件  (此处hserver1 配置 外网地址)
 ````
-192.168.10.134 hserver1
+132.232.23.187 hserver1
 ````
 ### demo程序
  [hbase-demo](https://coding.net/u/panchenri/p/hbase-demo/git?public=true) 
