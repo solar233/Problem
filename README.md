@@ -24,7 +24,7 @@
 
 [11.重写ueditor 图片上传方法](https://github.com/solar233/Problem/blob/master/11.%E9%87%8D%E5%86%99ueditor%20%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E6%96%B9%E6%B3%95.md)  
 
-[13.父子窗口传递值.md](https://github.com/solar233/Problem/blob/master/13.%E7%88%B6%E5%AD%90%E7%AA%97%E5%8F%A3%E4%BC%A0%E9%80%92%E5%80%BC.md)
+[13.父子窗口传递值](https://github.com/solar233/Problem/blob/master/13.%E7%88%B6%E5%AD%90%E7%AA%97%E5%8F%A3%E4%BC%A0%E9%80%92%E5%80%BC.md)
 
 
 # self-learning  
